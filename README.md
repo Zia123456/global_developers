@@ -5,9 +5,9 @@ This repo  created to contain web development course project's files, this proje
 - css
 - js
 ## Live Demo (if available)
-Live Demo: [Link](https://zia123456.github.io/global_developers/)
+Live Demo [Link](https://zia123456.github.io/global_developers/)
 ## Brief Introduction 
-Whatch the: [video](https://drive.google.com/file/d/189_wMxWmcxldnSc51__4fvNGKrZ7VHYV/view?usp=sharing)
+Whatch the [video](https://drive.google.com/file/d/189_wMxWmcxldnSc51__4fvNGKrZ7VHYV/view?usp=sharing)
 ## Getting Started
 Simply you can open index.html file with any browser and, you will see the home page.
 for opennig index.html go to global_developers directory, find index.html, right click on it, click on open with and, click on any browser which is available on your pc/labtop. 
