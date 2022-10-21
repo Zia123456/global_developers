@@ -26,6 +26,7 @@ Feel free to check the issues page.
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
+- Original design is by:[Cindy Shin in Behance](https://www.behance.net/adagio07)
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
